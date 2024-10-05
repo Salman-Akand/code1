@@ -7,6 +7,7 @@ public class StudentList {
 
 //		Check arguments
         // NM vai
+        //valo manush
         if (args[0].equals("a")) {
             System.out.println("Loading data ...");
             try {
