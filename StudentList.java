@@ -8,6 +8,7 @@ public class StudentList {
 //		Check arguments
         // NM vai
         //valo manush
+        //biri chara chole na
         if (args[0].equals("a")) {
             System.out.println("Loading data ...");
             try {
